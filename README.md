@@ -1,2 +1,2 @@
-# Astrostatistics-2024
+# Astrostatistics
 Repository with the exercises/codes for the Astrostatistics master's course.
